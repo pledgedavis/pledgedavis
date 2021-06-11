@@ -5,8 +5,8 @@ I'm a Fullstack Software Engineer and Software Developer. I have built multiple 
 
 *I am Flatiron school alumni.
 
-*Here's a link to my portfolio site that is constantly changing. https://pledgefoliosite.web.app/
+Here's a link to my portfolio site that is constantly changing. https://pledgefoliosite.web.app/
 
-*The best way to reach me is by LinkedIn. @PledgeDavis
+The best way to reach me is by LinkedIn. @PledgeDavis
 
-*Currently learning cloud computing and Node.js.👨🏾‍💻
+Currently learning cloud computing and Node.js.👨🏾‍💻
