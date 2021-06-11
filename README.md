@@ -1,4 +1,4 @@
-### Hello👋!
+### Hello!👋
 
 
 I'm a Fullstack Software Engineer and Software Developer. I have built multiple Fullstack applications and posted most of them here on my Github. I also like to post tech blogs about languages and frameworks that I'm currently using. I am also currently studying Web Accessibility and applying accessibility features to a website more user-friendly for the disabled. 
